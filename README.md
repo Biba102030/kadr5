@@ -1,4 +1,7 @@
 # Kadr4
-123telegram_bot , to parse text/articles from kadrovik.uz web
-did not completed yet rubruks, news
-also did not completed ux ui, content , visual page
+123
+
+main_tasks completed = rubriki, parser, news,search, 
+need to style - customization! 
+about us/// must be changed , member(user)_base should be upgrade
+
