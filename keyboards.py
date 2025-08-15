@@ -4,7 +4,7 @@ from aiogram import types
 def get_main_menu():
     builder = InlineKeyboardBuilder()
     builder.row(
-        types.InlineKeyboardButton(text="📰 Актуальные статьи", callback_data="kadrovik_latest")
+        types.InlineKeyboardButton(text="📚 Все темы 34", callback_data="kadrovik_latest")
     )
     builder.row(
         types.InlineKeyboardButton(text="📚 Рубрики", callback_data="kadrovik_news"),
